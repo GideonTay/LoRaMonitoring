@@ -9,7 +9,7 @@ LoRaModem modem;
 //#include "arduino_secrets.h"
 // Please enter your sensitive data in the Secret tab or arduino_secrets.h
 String appEui = "0000000000000000";
-String appKey = "EDD5A095615BA359A5231C13535A881D";
+String appKey = "***************************";
 
 void setup()
 {
